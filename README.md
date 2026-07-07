@@ -12,7 +12,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="About icon"> **About me**
 
 - 🎓 **Computer Engineering** @ **University of Toronto**
-- 🔭 Looking for: **Part-time Opportunities| Summer 2027 Internship | Research Positions**
+- 🔭 Looking for: **Part-time Opportunities | Summer 2027 Internship | Research Positions**
 - 🏆 **Hackathon Achievements**:
   - Finalist - Google: Hack the Future
   - [MLH] Best Use of Snowflake API - UTRA Hacks 2026
