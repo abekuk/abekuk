@@ -14,8 +14,8 @@
 - 🎓 **Computer Engineering** @ **University of Toronto**
 - 🔭 Looking for: **Part-time Opportunities | Summer 2027 Internships | Research Positions**
 - 🏆 **Hackathon Achievements**:
-  - Finalist - Google: Hack the Future
-  - [MLH] Best Use of Snowflake API - UTRA Hacks 2026
+  - Finalist (Top 4) - Google: Hack the Future. (250+ participants)
+  - [MLH] Best Use of Snowflake API - UTRA Hacks 2026 (400+ participants)
 
 <br>
 
